@@ -1,0 +1,38 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP +17.5V
+D Power symbol creates a global label with name "+18V"
+K power-flag
+$ENDCMP
+#
+$CMP +18V
+D Power symbol creates a global label with name "+18V"
+K power-flag
+$ENDCMP
+#
+$CMP L1CU-CYN1
+D Lumileds Cyan
+K Lumileds
+$ENDCMP
+#
+$CMP LXM3-PD01
+D Lumileds Deep Red
+K Lumileds
+$ENDCMP
+#
+$CMP LXML-PF01
+D Lumileds Far Red
+K Lumileds
+$ENDCMP
+#
+$CMP MHBBWT-0000000C0HD430H
+D Cree 3000k LED
+K Cree
+$ENDCMP
+#
+$CMP MHBBWT-0000000C0HE240H
+D Cree 4000k LED
+K Cree
+$ENDCMP
+#
+#End Doc Library
